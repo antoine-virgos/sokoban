@@ -1,0 +1,11 @@
+/build/
+/dist/
+/nbproject/private/
+/build
+
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea/
+*.iml
+out/
